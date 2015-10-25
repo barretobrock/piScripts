@@ -7,6 +7,6 @@ These scripts require changing ownership to allow writeable permissions in their
 
 The code used to change ownership:
 
-’’’
+```
 sudo chmod -R 777 /path/to/file
-’’’
+```
